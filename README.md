@@ -1,6 +1,9 @@
 # Predicting User Churn with Apache Spark
 ![Cover](sparkify.png)
 
+## Medium article:
+[How to predict user churn with PySpark on Big Data](https://tioans.medium.com/how-to-predict-user-churn-with-pyspark-on-big-data-f5922865d72b)
+
 ## About
 
 The goal of this project is to create a system capable of predicting the rate of user churn for "Sparkify", a (fictional) popular service for music streaming, similar to Spotify or Apple Music. Predicting churn rates is a challenging and common problem for data scientists working in a customer-facing business. In addition, the ability to manipulate large datasets with Spark is highly regarded in industry. 
