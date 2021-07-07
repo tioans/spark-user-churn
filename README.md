@@ -16,7 +16,7 @@ Project breakdown:
 4. **Modelling:** splitting the dataset into train/val/test sets, comparing several ML methods and evaluation the performance (accuracy and F1 scores).
 
 Model performance:
-* Best model: 
+* Best model: Gradient-boosted tree (GBT); Accuracy: 0.8059 ; F1: 0.7950
 
 ## Dependencies
 
