@@ -1,4 +1,5 @@
 # Predicting User Churn with Apache Spark
+![Cover](sparkify.png)
 
 ## About
 
