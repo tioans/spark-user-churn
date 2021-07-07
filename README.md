@@ -1,7 +1,7 @@
 # Predicting User Churn with Apache Spark
 ![Cover](sparkify.png)
 
-## Medium article:
+## Medium:
 [How to predict user churn with PySpark on Big Data](https://tioans.medium.com/how-to-predict-user-churn-with-pyspark-on-big-data-f5922865d72b)
 
 ## About
