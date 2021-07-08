@@ -13,10 +13,10 @@ The dataset contains user logs with information about about users and their beha
 
 
 Project breakdown:
-1. **Data Cleaning:** load and clean the data, checking for invalid or missing entries (i.e. no user IDs).
+1. **Data Preprocessing:** load and clean the data, checking for invalid or missing entries (i.e. no user IDs).
 2. **Exploratory Data Analysis:** defining churn, comparing the behavior of users with churned vs those who didn't.
 3. **Feature Engineering:** building features after exploring the data for training models.
-4. **Modelling:** splitting the dataset into train/val/test sets, comparing several ML methods and evaluation the performance (accuracy and F1 scores).
+4. **Model Implementation and Validation:** splitting the dataset into train/val/test sets, comparing several ML methods and evaluation the performance (accuracy and F1 scores).
 
 Model performance:
 * Best model: Gradient-boosted tree (GBT); Accuracy: 0.8059 ; F1: 0.7950
